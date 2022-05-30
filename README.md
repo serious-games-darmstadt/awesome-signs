@@ -1,10 +1,20 @@
-# awesome-signs
+# Awesome Sign Recognition
 
-[About me](https://www.etit.tu-darmstadt.de/serious-games/willkommen_sg/team_sg/team_sg_details_106944.de.jsp)
+This repository represents an overview of our research in sign language recognition. Some of the linked repositories are private, so please contact me if there is interest in this data. You can find more information about me and my work on [our institutes website](https://www.etit.tu-darmstadt.de/serious-games/willkommen_sg/team_sg/team_sg_details_106944.de.jsp).
 
 ## Databases
 
-- ASL-LEX
+### Signs and Parametrizations
+
+* [ASL-LEX with over 2,700 signs](https://asl-lex.org)
+* [Prepared and extended version of ASL-LEX with focus on parameterization](https://sign-parametrization.netlify.app)
+  - [Github Repository](https://github.com/serious-games-darmstadt/sign-parametrization)
+  - [GrahpQL Endpoint](https://sign-parametrization.herokuapp.com/v1/graphql)
+* [Video database with over 2,000 signs and over 21,000 videos](https://github.com/dxli94/WLASL)
+
+### Data glove recordings
+- [Rock-Paper-Scissors-Gestures with 5 and 25 gestures, recorded with a *Senso Glove: DK2* data glove](https://github.com/serious-games-darmstadt/dataglove_senso-glove-dk2_rps-gestures)
+- [62 different static handshapes from ASL-LEX, recorded with *Manus Prime X* data glove](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes)
 
 ## Publications
 
@@ -52,17 +62,15 @@ In addition, we investigated how the accuracy of the classifiers performed when 
   **Comment**: Comparison of different classifiers for data from a simple data glove at 5 and 25 gestures.
 </details>
 
-## To do
-- https://sign-parametrization.netlify.app & https://github.com/serious-games-darmstadt/sign-parametrization
-- https://github.com/serious-games-darmstadt/sign-visualizations
-- https://sign-games.com & https://github.com/serious-games-darmstadt/sign-games
-- https://github.com/serious-games-darmstadt/WLASL
-- https://github.com/serious-games-darmstadt/leap_motion_and_data_glove_classifier
-- https://github.com/serious-games-darmstadt/gesture-classifier
+## Others
 
-### Databases
-- https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes
-- https://github.com/serious-games-darmstadt/dataglove_senso-glove-dk2_rps-gestures
+* [Tool to classify handshapes and compare with 8 different classifiers](https://github.com/serious-games-darmstadt/gesture-classifier)
+  - [Predecessor tool, here still with the possibility to classify data from Leap Motion in addition to data glove data](https://github.com/serious-games-darmstadt/leap_motion_and_data_glove_classifier)
+* [Different graphics and visualizations of signs, handshapes, ...](https://github.com/serious-games-darmstadt/sign-visualizations)
+* [Camera controlled browser games to learn sign language](https://sign-games.com)
+  - [Github Repository](https://github.com/serious-games-darmstadt/sign-games)
+
+## To do
 
 ### Theses
 - https://github.com/serious-games-darmstadt/BA_signs_video_parametrization
