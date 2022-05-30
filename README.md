@@ -62,6 +62,23 @@ In addition, we investigated how the accuracy of the classifiers performed when 
   **Comment**: Comparison of different classifiers for data from a simple data glove at 5 and 25 gestures.
 </details>
 
+## Theses
+- Augmenting Finger Motion Data for Hand Gesture Recognition using Video-based Zero-Shot Domain Adaption
+  - [Github Repository](https://github.com/serious-games-darmstadt/BA_augmented_finger_motion_data)
+- [Recognition and classification of handshapes of American finger alphabet](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/abschlussarbeiten_sg_details_14208.de.jsp)
+  - [Github Repository](https://github.com/serious-games-darmstadt/BA_data_glove_asl)
+- [Towards sign parametrization by using MediaPipe](https://github.com/serious-games-darmstadt/BA_signs_video_parametrization)
+  - [Github Repository](https://github.com/serious-games-darmstadt/BA_data_glove_asl)
+- [Towards arm posture detection using sensor fusion and extended Kalman filter](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/abschlussarbeiten_sg_details_14080.de.jsp)
+  - [Github Repository](https://github.com/serious-games-darmstadt/MA_arm_posture_detection)
+  - [Predecessor work](https://github.com/serious-games-darmstadt/imu-controller)
+- [Augmenting Wearable Sensor Data For Sign Language Recognition](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/abschlussarbeiten_sg_details_18880.de.jsp)
+  - [Github Repository](https://github.com/serious-games-darmstadt/BA_data_enrichment)
+- [Classification of signs according to Battison based on their articulatory complexity](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/abschlussarbeiten_sg_details_18816.de.jsp)
+  - [Github Repository](https://github.com/serious-games-darmstadt/MA_battison_classification)
+- Towards metaclassification of complex handshape recognition
+  - [Github Repository](https://github.com/serious-games-darmstadt/MA_handshape_metaclassifier)
+
 ## Others
 
 * [Tool to classify handshapes and compare with 8 different classifiers](https://github.com/serious-games-darmstadt/gesture-classifier)
@@ -69,13 +86,3 @@ In addition, we investigated how the accuracy of the classifiers performed when 
 * [Different graphics and visualizations of signs, handshapes, ...](https://github.com/serious-games-darmstadt/sign-visualizations)
 * [Camera controlled browser games to learn sign language](https://sign-games.com)
   - [Github Repository](https://github.com/serious-games-darmstadt/sign-games)
-
-## To do
-
-### Theses
-- https://github.com/serious-games-darmstadt/BA_signs_video_parametrization
-- https://github.com/serious-games-darmstadt/BA_data_enrichment
-- https://github.com/serious-games-darmstadt/BA_data_glove_asl
-- https://github.com/serious-games-darmstadt/BA_augmented_finger_motion_data
-- https://github.com/serious-games-darmstadt/MA_arm_posture_detection & https://github.com/serious-games-darmstadt/imu-controller
-- [comment]: <> (wo sind die anderen MAs? Alle BAs hier?)
