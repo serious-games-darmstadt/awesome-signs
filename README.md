@@ -68,7 +68,7 @@ In addition, we investigated how the accuracy of the classifiers performed when 
 - [Recognition and classification of handshapes of American finger alphabet](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/abschlussarbeiten_sg_details_14208.de.jsp)
   - [Github Repository](https://github.com/serious-games-darmstadt/BA_data_glove_asl)
 - [Towards sign parametrization by using MediaPipe](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/abschlussarbeiten_sg_details_17664.de.jsp)
-  - [Github Repository]([https://github.com/serious-games-darmstadt/BA_data_glove_asl](https://github.com/serious-games-darmstadt/BA_signs_video_parametrization))
+  - [Github Repository](https://github.com/serious-games-darmstadt/BA_data_glove_asl)
 - [Towards arm posture detection using sensor fusion and extended Kalman filter](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/abschlussarbeiten_sg_details_14080.de.jsp)
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_arm_posture_detection)
   - [Predecessor work](https://github.com/serious-games-darmstadt/imu-controller)
