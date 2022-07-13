@@ -17,7 +17,7 @@ This repository represents an overview of our research in sign language recognit
 
 ### Data glove recordings
 - [5 and 25 different static handshapes of Rock-Paper-Scissors, recorded with a *Senso Glove: DK2* data glove](https://github.com/serious-games-darmstadt/dataglove_senso-glove-dk2_rps-gestures)
-- [60 different static and 2 dynamic handshapes from ASL-LEX, recorded with *Manus Prime X* data glove](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes)
+- [62 different static and 2 dynamic handshapes from ASL-LEX, recorded with *Manus Prime X* data glove](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes)
 
 ## Publications
 
