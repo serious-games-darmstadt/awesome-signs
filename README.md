@@ -16,8 +16,12 @@ This repository represents an overview of our research in sign language recognit
 
 
 ### Data glove recordings
-- [5 and 25 different static handshapes of Rock-Paper-Scissors, recorded with a *Senso Glove: DK2* data glove](https://github.com/serious-games-darmstadt/dataglove_senso-glove-dk2_rps-gestures)
-- [62 different static and 2 dynamic handshapes from ASL-LEX, recorded with *Manus Prime X* data glove](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes)
+
+* [5 and 25 different static handshapes of Rock-Paper-Scissors, recorded with a *Senso Glove: DK2* data glove](https://github.com/serious-games-darmstadt/dataglove_senso-glove-dk2_rps-gestures)
+* [62 different static and 2 dynamic handshapes from ASL-LEX, recorded with *Manus Prime X* data glove](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes)
+  - [Tool to visualize recorded handshapes](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_visualizer)
+* [Tool to classify handshapes and compare accuracy of 8 different classifiers](https://github.com/serious-games-darmstadt/gesture-classifier)
+  - [Predecessor tool, here still with the possibility to classify data from Leap Motion in addition to data glove data](https://github.com/serious-games-darmstadt/leap_motion_and_data_glove_classifier)
 
 ## Publications
 
@@ -84,8 +88,6 @@ In addition, we investigated how the accuracy of the classifiers performed when 
 
 ## Others
 
-* [Tool to classify handshapes and compare with 8 different classifiers](https://github.com/serious-games-darmstadt/gesture-classifier)
-  - [Predecessor tool, here still with the possibility to classify data from Leap Motion in addition to data glove data](https://github.com/serious-games-darmstadt/leap_motion_and_data_glove_classifier)
 * [Different graphics and visualizations of signs, handshapes, ...](https://github.com/serious-games-darmstadt/sign-visualizations)
 * [Camera controlled browser games to learn sign language](https://sign-games.com) (in development!)
   - [Github Repository](https://github.com/serious-games-darmstadt/sign-games)
