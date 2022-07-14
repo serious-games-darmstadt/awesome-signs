@@ -1,29 +1,31 @@
 # Awesome Sign Recognition
 
 This repository represents an overview of our research in sign language recognition. Some of the linked repositories are private, so please contact me if there is interest in this data. You can find more information about me and my work on [our institutes website](https://www.etit.tu-darmstadt.de/serious-games/willkommen_sg/team_sg/team_sg_details_106944.de.jsp).
+Links to works by other authors are marked with *[ext]*.
 
-## Databases
+## Sign Recognition
 
 ### Signs and Parametrizations
 
-* [ASL-LEX with over 2,700 signs](https://asl-lex.org)
-* [Prepared and extended version of ASL-LEX with focus on parameterization](https://sign-parametrization.netlify.app)
+* [ASL Sign Database based on ASL-LEX (see below) with focus on parameterization](https://sign-parametrization.netlify.app)
   - [Github Repository](https://github.com/serious-games-darmstadt/sign-parametrization)
   - [GrahpQL Endpoint](https://sign-parametrization.herokuapp.com/v1/graphql)
-* [Video database with over 2,000 signs and over 21,000 videos](https://github.com/dxli94/WLASL)
-* [Multimodal and multiview continuous data set with more than 80 hours of video material](https://how2sign.github.io)
+* [ext] [ASL-LEX with over 2,700 signs](https://asl-lex.org)
+* [ext] [Video database with over 2,000 signs and over 21,000 videos](https://github.com/dxli94/WLASL)
+* [ext] [Multimodal and multiview continuous data set with more than 80 hours of video material](https://how2sign.github.io)
   - [Github Repository](https://github.com/srvk/how2-dataset)
 
+### Handshape Recognition
 
-### Data glove recordings
-
+* [Tool to classify handshapes and compare accuracy of 8 different classifiers](https://github.com/serious-games-darmstadt/gesture-classifier)
+  - [Predecessor tool, here still with the possibility to classify data from Leap Motion in addition to data glove data](https://github.com/serious-games-darmstadt/leap_motion_and_data_glove_classifier)
 * [5 and 25 different static handshapes of Rock-Paper-Scissors, recorded with a *Senso Glove: DK2* data glove](https://github.com/serious-games-darmstadt/dataglove_senso-glove-dk2_rps-gestures)
 * [62 different static and 2 dynamic handshapes from ASL-LEX, recorded with *Manus Prime X* data glove](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes)
   - [Tool to visualize recorded handshapes](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_visualizer)
-* [Tool to classify handshapes and compare accuracy of 8 different classifiers](https://github.com/serious-games-darmstadt/gesture-classifier)
-  - [Predecessor tool, here still with the possibility to classify data from Leap Motion in addition to data glove data](https://github.com/serious-games-darmstadt/leap_motion_and_data_glove_classifier)
 
 ## Publications
+
+Here is a selection of my publications in the field of gesture recognition:
 
 <details>
   <summary>Flex your muscles: EMG-based serious game controls, Joint International Conference on Serious Games, 2020</summary>
@@ -70,6 +72,15 @@ In addition, we investigated how the accuracy of the classifiers performed when 
 </details>
 
 ## Student Theses
+
+Here is a selection of student theses I have supervised in the area of gesture recognition:
+
+- [Design and implementation of a finger gesture controlled game](https://www.kom.tu-darmstadt.de/de/teaching/14/completed/?no_cache=1&theses%5BshowUid%5D=1412&cHash=a2ba2929e5ad462d478b48981ba31533)
+- [Detection of basic hand shapes by using electromyography under consideration of different configurations](https://www.kom.tu-darmstadt.de/de/teaching/theses/in-progress/?no_cache=1&theses%5BshowUid%5D=1437&cHash=7b50a9200dc06731810e2d4c89cefb5b)
+- [Development and evaluation of two approaches for recognition of primitive hand gestures using a Leap Motion Controller](https://www.kom.tu-darmstadt.de/de/teaching/theses/in-progress/?no_cache=1&theses%5BshowUid%5D=1433&cHash=f8cd18fb711807c7058b2ee8d85c7f44)
+- [Design and implementation of a mechanomyography controller to recognize simple finger gestures](https://www.kom.tu-darmstadt.de/de/teaching/theses/in-progress/?no_cache=1&theses%5BshowUid%5D=1438&cHash=6afd7b9db451e0e241ba545f82b49b1e)
+- [Comparing the suitability of Decision Tree classifier and Support Vector Machines for hand gesture recognition](https://www.kom.tu-darmstadt.de/de/teaching/theses/in-progress/?no_cache=1&theses%5BshowUid%5D=1451&cHash=990a467df4290973c8d2aa5e646c9d66)
+- [Recognition of gesture movement, orientation and location using IMUs and Inverse Kinematics](https://www.kom.tu-darmstadt.de/de/teaching/theses/in-progress/?no_cache=1&theses%5BshowUid%5D=1450&cHash=37a4ae6d8401a36b2f0587b11086a08c)
 - Augmenting Finger Motion Data for Hand Gesture Recognition using Video-based Zero-Shot Domain Adaption
   - [Github Repository](https://github.com/serious-games-darmstadt/BA_augmented_finger_motion_data)
 - [Recognition and classification of handshapes of American finger alphabet](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/abschlussarbeiten_sg_details_14208.de.jsp)
