@@ -96,6 +96,8 @@ Here is a selection of student theses I have supervised in the area of gesture r
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_battison_classification)
 - Towards metaclassification of complex handshape recognition
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_handshape_metaclassifier)
+  
+If you are writing a thesis yourself, you can find the [template here](https://github.com/serious-games-darmstadt/pa-student_theses). If you would like to write a thesis, you can find open [topics here](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/index.de.jsp).
 
 ## Others
 
