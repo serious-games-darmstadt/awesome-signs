@@ -101,6 +101,6 @@ If you are writing a thesis yourself, you can find the [template here](https://g
 
 ## Others
 
-* [Different graphics and visualizations of signs, handshapes, ...](https://github.com/serious-games-darmstadt/sign-visualizations)
+* [Different graphics and visualizations of signs, handshapes, ...](https://github.com/serious-games-darmstadt/sign-visualizations) (please use them for your work!!!)
 * [Camera controlled browser games to learn sign language](https://sign-games.com) (in development!)
   - [Github Repository](https://github.com/serious-games-darmstadt/sign-games)
