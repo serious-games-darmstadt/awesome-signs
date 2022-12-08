@@ -96,6 +96,12 @@ Here is a selection of student theses I have supervised in the area of gesture r
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_battison_classification)
 - Towards metaclassification of complex handshape recognition
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_handshape_metaclassifier)
+- [Classification of hand gestures using MediaPipe with qualitative feedback](https://github.com/serious-games-darmstadt/BA_qualitative_feedback_classification/raw/main/qualitative-feedback-classifcation.pdf)
+  - [Github Repository](https://github.com/serious-games-darmstadt/BA_qualitative_feedback_classification)
+- [Automatic generation of a parametric sign lexicon with MediaPipe](https://github.com/serious-games-darmstadt/MA_parametric_sign_lexicon/raw/main/parametric-sign-lexicon.pdf)
+  - [Github Repository](https://github.com/serious-games-darmstadt/MA_parametric_sign_lexicon)
+- [IMU data segmentation for pose recognition in sign language](https://github.com/serious-games-darmstadt/MA_pose_recognition_segmentation/raw/main/pose-recognition-segmentation.pdf)
+  - [Github Repository](https://github.com/serious-games-darmstadt/MA_pose_recognition_segmentation)
   
 If you are writing a thesis yourself, you can find the [template here](https://github.com/serious-games-darmstadt/pa-student_theses). If you would like to write a thesis, you can find open [topics here](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/index.de.jsp).
 
@@ -104,3 +110,4 @@ If you are writing a thesis yourself, you can find the [template here](https://g
 * [Different graphics and visualizations of signs, handshapes, ...](https://github.com/serious-games-darmstadt/sign-visualizations) (please use them for your work!!!)
 * [Camera controlled browser games to learn sign language](https://sign-games.com) (in development!)
   - [Github Repository](https://github.com/serious-games-darmstadt/sign-games)
+* [MediaPipe recoding tool for browser](https://github.com/serious-games-darmstadt/media_pipe-recording-tool)
