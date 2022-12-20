@@ -9,7 +9,6 @@ Links to works by other authors are marked with *[ext]*.
 
 * [ASL Sign Database based on ASL-LEX (see below) with focus on parameterization](https://sign-parametrization.netlify.app)
   - [Github Repository](https://github.com/serious-games-darmstadt/sign-parametrization)
-  - [GrahpQL Endpoint](https://sign-parametrization.herokuapp.com/v1/graphql)
 * [ext] [ASL-LEX with over 2,700 signs](https://asl-lex.org)
 * [ext] [Video database with over 2,000 signs and over 21,000 videos](https://github.com/dxli94/WLASL)
 * [ext] [Multimodal and multiview continuous data set with more than 80 hours of video material](https://how2sign.github.io)
