@@ -26,6 +26,10 @@ Links to works by other authors are marked with *[ext]*.
 * [5 and 25 different static handshapes of Rock-Paper-Scissors, recorded with a *Senso Glove: DK2* data glove](https://github.com/serious-games-darmstadt/dataglove_senso-glove-dk2_rps-gestures)
 * [62 different static and 2 dynamic handshapes from ASL-LEX, recorded with *Manus Prime X* data glove](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes)
   - [Tool to visualize recorded handshapes](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_visualizer)
+ 
+### Awesome Tools
+* [ext] [Fingerspelling.xyz](https://fingerspelling.xyz)
+* [ext] [Sign Translater](https://sign.mt)
 
 ## Publications
 
