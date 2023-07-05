@@ -112,7 +112,7 @@ Here is a selection of student theses I have supervised in the area of gesture r
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_pose_recognition_segmentation)
 - [Dancing with the gloves on: Using data gloves and arm controllers to teach the Macarena](https://github.com/serious-games-darmstadt/BA_macarena-dance-simulator/raw/main/hand-pose-recognition.pdf)
   - [Github Repository](https://github.com/serious-games-darmstadt/BA_macarena-dance-simulator)
-- [Extraction and Augmentation of Sensor Data from Video Material using MediaPipe]([https://github.com/serious-games-darmstadt/BA_macarena-dance-simulator/raw/main/hand-pose-recognition.pdf](https://github.com/serious-games-darmstadt/MA_video_data_augmentation/raw/main/data-augmentation.pdf))
+- [Extraction and Augmentation of Sensor Data from Video Material using MediaPipe](https://github.com/serious-games-darmstadt/BA_macarena-dance-simulator/raw/main/hand-pose-recognition.pdf)
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_video_data_augmentation)
   
 If you are writing a thesis yourself, you can find the [template here](https://github.com/serious-games-darmstadt/pa-student_theses). If you would like to write a thesis, you can find open [topics here](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/index.de.jsp).
