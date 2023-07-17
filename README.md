@@ -29,6 +29,7 @@ Links to works by other authors are marked with *[ext]*.
  
 ### Awesome Tools
 * [ext] [Fingerspelling.xyz](https://fingerspelling.xyz)
+* [ext] [Fingerspell.net](https://fingerspell.net/#/spell)
 * [ext] [Sign Translater](https://sign.mt)
 
 ## Publications
