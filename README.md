@@ -25,6 +25,7 @@ Links to works by other authors are marked with *[ext]*.
   - [Predecessor tool, here still with the possibility to classify data from Leap Motion in addition to data glove data](https://github.com/serious-games-darmstadt/leap_motion_and_data_glove_classifier)
 * [5 and 25 different static handshapes of Rock-Paper-Scissors, recorded with a *Senso Glove: DK2* data glove](https://github.com/serious-games-darmstadt/dataglove_senso-glove-dk2_rps-gestures)
 * [62 different static and 2 dynamic handshapes from ASL-LEX, recorded with *Manus Prime X* data glove](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes)
+  - [Source files](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_handshapes_src)
   - [Tool to visualize recorded handshapes](https://github.com/serious-games-darmstadt/dataglove_manus-prime-x_visualizer)
  
 ### Awesome Tools
@@ -114,6 +115,8 @@ Here is a selection of student theses I have supervised in the area of gesture r
 - [Dancing with the gloves on: Using data gloves and arm controllers to teach the Macarena](https://github.com/serious-games-darmstadt/BA_macarena-dance-simulator/raw/main/hand-pose-recognition.pdf)
   - [Github Repository](https://github.com/serious-games-darmstadt/BA_macarena-dance-simulator)
 - [Extraction and Augmentation of Sensor Data from Video Material using MediaPipe](https://github.com/serious-games-darmstadt/MA_video_data_augmentation/raw/main/data-augmentation.pdf)
+  - [Github Repository](https://github.com/serious-games-darmstadt/MA_video_data_augmentation)
+- [Live Classification of Battison’s Sign Types](https://www.etit.tu-darmstadt.de/media/sg/abschlussarbeiten_sg/sign_type-detection.pdf)
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_video_data_augmentation)
   
 If you are writing a thesis yourself, you can find the [template here](https://github.com/serious-games-darmstadt/pa-student_theses). If you would like to write a thesis, you can find open [topics here](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/index.de.jsp).
