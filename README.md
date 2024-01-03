@@ -7,9 +7,12 @@ Links to works by other authors are marked with *[ext]*.
 
 ### Signs and Parametrizations
 
+* [Sign Recognition Tool](https://github.com/serious-games-darmstadt/sign-recognition)
 * [ASL Sign Database based on ASL-LEX (see below) with focus on parameterization](https://sign-parametrization.netlify.app)
   - [Github Repository](https://github.com/serious-games-darmstadt/sign-parametrization)
   - [Parser to find differences between ASL-LEX website data and download data](https://github.com/serious-games-darmstadt/asl-lex-parser)
+  - [Tool to add hand orientation to ASL-Lex](https://github.com/serious-games-darmstadt/sign-orientation)
+* [Sign Recordings](https://github.com/serious-games-darmstadt/signs)
 * [ext] [ASL-LEX with over 2,700 signs](https://asl-lex.org)
   - [Github Repository](https://github.com/ASL-LEX/asl-lex)
   - [Download](https://github.com/serious-games-darmstadt/sign-videos)
