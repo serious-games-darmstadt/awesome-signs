@@ -120,7 +120,7 @@ Here is a selection of student theses I have supervised in the area of gesture r
 - [Extraction and Augmentation of Sensor Data from Video Material using MediaPipe](https://github.com/serious-games-darmstadt/MA_video_data_augmentation/raw/main/data-augmentation.pdf)
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_video_data_augmentation)
 - [Live Classification of Battison’s Sign Types](https://www.etit.tu-darmstadt.de/media/sg/abschlussarbeiten_sg/sign_type-detection.pdf)
-  - [Github Repository](https://github.com/serious-games-darmstadt/MA_video_data_augmentation)
+  - [Github Repository](https://github.com/serious-games-darmstadt/MA_live_battison)
 - [Developing a system for determining the location of signs by using IMUs and forward kinematics](https://www.etit.tu-darmstadt.de/media/sg/abschlussarbeiten_sg/sign_type-detection.pdf)
   - [Github Repository](https://github.com/serious-games-darmstadt/BA_sign_locations)
   
