@@ -123,6 +123,8 @@ Here is a selection of student theses I have supervised in the area of gesture r
   - [Github Repository](https://github.com/serious-games-darmstadt/MA_live_battison)
 - [Developing a system for determining the location of signs by using IMUs and forward kinematics](https://www.etit.tu-darmstadt.de/media/sg/abschlussarbeiten_sg/sign_type-detection.pdf)
   - [Github Repository](https://github.com/serious-games-darmstadt/BA_sign_locations)
+- [Hand orientation recognition in sign videos: Data fusion and tool development](https://github.com/serious-games-darmstadt/BA_sign_orientation/raw/main/sign_orientation-detection.pdf)
+  - [Github Repository](https://github.com/serious-games-darmstadt/BA_sign_orientation)
   
 If you are writing a thesis yourself, you can find the [template here](https://github.com/serious-games-darmstadt/pa-student_theses). If you would like to write a thesis, you can find open [topics here](https://www.etit.tu-darmstadt.de/serious-games/lehre_sg/abschlussarbeiten_sg/index.de.jsp).
 
